@@ -3,3 +3,7 @@ ls -ltr
 who
 cat filenamte
 grep abcd
+ps -ef 
+top
+df -h
+free -m
